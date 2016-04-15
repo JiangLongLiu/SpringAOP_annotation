@@ -7,7 +7,7 @@ package com.wiseq.aop;
 
 import java.util.*;
 
-/** 计算器
+/** 计算器 123
  * 
  * 2016年4月15日11:05:22
  * 刘江龙
@@ -21,7 +21,7 @@ public interface ArthmeticCalculator {
    /** @param i 
     * @param j
     * @pdOid e399522a-f47f-487f-92f2-c23623afd0b2 */
-   int sub(int i, int j);
+   int sub(int i, int j);  
    /** @param i 
     * @param j
     * @pdOid 1bfd8134-ef9c-4f74-89a2-21d16edd7883 */
